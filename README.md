@@ -1,6 +1,7 @@
 # ToDo
 
-Add MoDsecirty WAF
+Add MoDsecurity WAF
+
 Secure Nginx
 
 # nginx-proxy-waf
