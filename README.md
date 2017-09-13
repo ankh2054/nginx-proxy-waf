@@ -1,3 +1,8 @@
+# ToDo
+
+Add MoDsecirty WAF
+Secure Nginx
+
 # nginx-proxy-waf
 Alpine Nnginx server that automatically adds host configurations for new docker instances.
 
